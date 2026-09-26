@@ -1,1 +1,1 @@
-![Built using Codex with a spinning ChatGPT logo](assets/built-using-codex.gif)
+![Built using Codex with a spinning ChatGPT logo](assets/built-using-codex-white.gif)
