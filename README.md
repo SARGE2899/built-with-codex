@@ -1,4 +1,4 @@
-# Built with Codex
+![Built using Codex with a spinning ChatGPT logo](assets/built-using-codex.gif)
 
 A collection of projects, experiments, and hands-on learning exercises built with OpenAI Codex, with readable code and step-by-step explanations.
 
